@@ -1,6 +1,6 @@
 {
-    "name": "cordova-labs-local-webserver-ka",
-    "version": "1.0.7",
+    "name": "cordova-labs-local-webserver-klb",
+    "version": "1.0.8",
     "description": "Cordova Local Web Server Plugin",
     "cordova": {
       "id": "cordova-labs-local-webserver",
@@ -10,7 +10,7 @@
     },
     "repository": {
       "type": "git",
-      "url": ""
+      "url": "git+https://github.com/KarpelesLab/cordova-labs-local-webserver-klb.git"
     },
     "keywords": [
       "cordova",
@@ -27,9 +27,9 @@
     "author": "",
     "license": "Apache-2.0",
     "bugs": {
-      "url": ""
+      "url": "https://github.com/KarpelesLab/cordova-labs-local-webserver-klb/issues"
     },
-    "homepage": "",
+    "homepage": "https://github.com/KarpelesLab/cordova-labs-local-webserver-klb",
     "dependencies": {
       "urijs": "^1.17.1",
       "elementtree": "^0.1.7"
